@@ -1,0 +1,13 @@
+C:\Users\anach\OneDrive\Desktop\Nationala_2022\Nationala_2022\bin\Debug\baza.mdf
+C:\Users\anach\OneDrive\Desktop\Nationala_2022\Nationala_2022\bin\Debug\baza_log.ldf
+C:\Users\anach\OneDrive\Desktop\Nationala_2022\Nationala_2022\bin\Debug\Nationala_2022.exe.config
+C:\Users\anach\OneDrive\Desktop\Nationala_2022\Nationala_2022\bin\Debug\Nationala_2022.exe
+C:\Users\anach\OneDrive\Desktop\Nationala_2022\Nationala_2022\bin\Debug\Nationala_2022.pdb
+C:\Users\anach\OneDrive\Desktop\Nationala_2022\Nationala_2022\obj\Debug\Nationala_2022.csproj.AssemblyReference.cache
+C:\Users\anach\OneDrive\Desktop\Nationala_2022\Nationala_2022\obj\Debug\Nationala_2022.Properties.Resources.resources
+C:\Users\anach\OneDrive\Desktop\Nationala_2022\Nationala_2022\obj\Debug\Nationala_2022.csproj.GenerateResource.cache
+C:\Users\anach\OneDrive\Desktop\Nationala_2022\Nationala_2022\obj\Debug\Nationala_2022.csproj.CoreCompileInputs.cache
+C:\Users\anach\OneDrive\Desktop\Nationala_2022\Nationala_2022\obj\Debug\Nationala_2022.exe
+C:\Users\anach\OneDrive\Desktop\Nationala_2022\Nationala_2022\obj\Debug\Nationala_2022.pdb
+C:\Users\anach\OneDrive\Desktop\Nationala_2022\Nationala_2022\obj\Debug\Nationala_2022.Logare.resources
+C:\Users\anach\OneDrive\Desktop\Nationala_2022\Nationala_2022\obj\Debug\Nationala_2022.Interfeteeco.resources
